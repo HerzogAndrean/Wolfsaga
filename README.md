@@ -1,5 +1,5 @@
 # WOLFSAGA
-Die Wolfsaga-Kampagne für Stronghold 1 handelt von der Vorgeschichte der Militärkampagne und der verloren gegangenen Saga aus der Sicht der vier Herzöge.
+Die Wolfsaga-Kampagne für Stronghold 1 handelt von der Vorgeschichte der Militärkampagne und der "Verloren gegangenen Saga" aus der Sicht der vier Herzöge.
 
 
 ## INSTALLATION
